@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58586d2f-0bbb-4941-9222-6a669aae27fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rhEjirNIOhdahLR0qpOO75PaiQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.[1431]Kids With the Greatest Number of Candies">
+    <configuration name="[1431]Kids With the Greatest Number of Candies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/var/folders/m4/q5j74q416mz385zt479l9q_r0000gn/T/leetcode/editor/cn" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/var/folders/m4/q5j74q416mz385zt479l9q_r0000gn/T/leetcode/editor/cn/[1431]Kids With the Greatest Number of Candies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[1480]一维数组的动态和" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/var/folders/m4/q5j74q416mz385zt479l9q_r0000gn/T/leetcode/editor/cn" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/var/folders/m4/q5j74q416mz385zt479l9q_r0000gn/T/leetcode/editor/cn/[1480]一维数组的动态和.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[1512]Number of Good Pairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/var/folders/m4/q5j74q416mz385zt479l9q_r0000gn/T/leetcode/editor/cn" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/var/folders/m4/q5j74q416mz385zt479l9q_r0000gn/T/leetcode/editor/cn/[1512]Number of Good Pairs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[1672]Richest Customer Wealth" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/var/folders/m4/q5j74q416mz385zt479l9q_r0000gn/T/leetcode/editor/cn" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/var/folders/m4/q5j74q416mz385zt479l9q_r0000gn/T/leetcode/editor/cn/[1672]Richest Customer Wealth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[1822]数组元素积的符号" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/var/folders/m4/q5j74q416mz385zt479l9q_r0000gn/T/leetcode/editor/cn" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/var/folders/m4/q5j74q416mz385zt479l9q_r0000gn/T/leetcode/editor/cn/[1822]数组元素积的符号.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="leetcode" type="Python.FlaskServer">
+      <module name="leetcode" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.[1431]Kids With the Greatest Number of Candies" />
+        <item itemvalue="Python.[1672]Richest Customer Wealth" />
+        <item itemvalue="Python.[1512]Number of Good Pairs" />
+        <item itemvalue="Python.[1480]一维数组的动态和" />
+        <item itemvalue="Python.[1822]数组元素积的符号" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58586d2f-0bbb-4941-9222-6a669aae27fb" name="Default Changelist" comment="" />
+      <created>1619420057529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619420057529</updated>
+      <workItem from="1619420059113" duration="157000" />
+      <workItem from="1619420360408" duration="1476000" />
+      <workItem from="1619422134980" duration="3710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="34" key="#Notifications" timestamp="1619420707536">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="220" y="34" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1619420707536" />
+    <state width="1385" height="170" key="GridCell.Tab.0.bottom" timestamp="1619425861968">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1385" height="170" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619425861968" />
+    <state width="1385" height="170" key="GridCell.Tab.0.center" timestamp="1619425861967">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1385" height="170" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1619425861967" />
+    <state width="1385" height="170" key="GridCell.Tab.0.left" timestamp="1619425861966">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1385" height="170" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1619425861966" />
+    <state width="1385" height="170" key="GridCell.Tab.0.right" timestamp="1619425861968">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1385" height="170" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1619425861968" />
+    <state x="208" y="142" key="IDE.errors.dialog" timestamp="1619420674730">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="142" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1619420674730" />
+    <state x="105" y="3" key="SettingsEditor" timestamp="1619422120991">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="105" y="3" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1619422120991" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$leetcode_test.coverage" NAME="leetcode_test Coverage Results" MODIFIED="1619420203621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$_1431_Kids_With_the_Greatest_Number_of_Candies.coverage" NAME="[1431]Kids With the Greatest Number of Candies Coverage Results" MODIFIED="1619425861958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/var/folders/m4/q5j74q416mz385zt479l9q_r0000gn/T/leetcode/editor/cn" />
+    <SUITE FILE_PATH="coverage/leetcode$_1822_.coverage" NAME="[1822]数组元素积的符号 Coverage Results" MODIFIED="1619421035730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/var/folders/m4/q5j74q416mz385zt479l9q_r0000gn/T/leetcode/editor/cn" />
+    <SUITE FILE_PATH="coverage/leetcode$_1672_Richest_Customer_Wealth.coverage" NAME="[1672]Richest Customer Wealth Coverage Results" MODIFIED="1619423926552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/var/folders/m4/q5j74q416mz385zt479l9q_r0000gn/T/leetcode/editor/cn" />
+    <SUITE FILE_PATH="coverage/leetcode$_1512_Number_of_Good_Pairs.coverage" NAME="[1512]Number of Good Pairs Coverage Results" MODIFIED="1619423673744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/var/folders/m4/q5j74q416mz385zt479l9q_r0000gn/T/leetcode/editor/cn" />
+    <SUITE FILE_PATH="coverage/leetcode$_1480_.coverage" NAME="[1480]一维数组的动态和 Coverage Results" MODIFIED="1619421260492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/var/folders/m4/q5j74q416mz385zt479l9q_r0000gn/T/leetcode/editor/cn" />
+  </component>
+</project>
